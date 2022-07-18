@@ -1,2 +1,3 @@
 # FCC-Solutions
-solutions of all freecodecamp assessments
+
+## Solutions of all freecodecamp assessments
